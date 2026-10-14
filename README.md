@@ -1,5 +1,5 @@
 ## hello
-i'm stephen. i'm an meng ece student @ uwaterloo / swe
+i'm an meng ece student @ uwaterloo / swe
 
 ## stats
 ![](https://raw.githubusercontent.com/badheuristic/github-stats/master/generated/overview.svg#gh-dark-mode-only)
